@@ -1,0 +1,12 @@
+.form-section{
+    width: 700px;
+    background-color: antiquewhite;
+    padding: 25px;
+}
+.form-section img{
+    height: 300px;
+    width: 300px;
+}
+.form-section a{
+    display: block;
+}
